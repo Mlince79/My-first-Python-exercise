@@ -1,0 +1,7 @@
+print ('Enter your name and your age:')
+myName = input ()
+myAge = input ()
+spam = ('100')
+spam = int(spam)
+print ('Hi ' +  myName + ' you will be 100 years in ' + str(2019-int(myAge) + spam))
+# exercise how to treat spam as a variable as an integer instead of a string
