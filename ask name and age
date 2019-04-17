@@ -1,0 +1,4 @@
+print ('Enter your name and your age:')
+myName = input ()
+myAge = input ()
+print ('Hi ' + myName + 'you will be 100 years in' + str(2019-int(myAge)+100))
